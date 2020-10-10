@@ -1,4 +1,4 @@
 # Etructuras_Stack
 Uso de Pilas
 
-![](Imagenes/aunar next.png)
+![](/scr/Imagenes/Pila.PNG)
